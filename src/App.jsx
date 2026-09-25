@@ -1,7 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 import { PieChart, Pie, Cell, BarChart, Bar, XAxis, YAxis, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 
-// URL do backend - em produção, defina VITE_API_URL no ambiente de build
 const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8080';
 
 const COLORS = ['#3b82f6', '#10b981', '#f59e0b', '#ef4444', '#8b5cf6', '#ec4899'];
