@@ -1,13 +1,13 @@
-Data,Descrição,Valor
-03/09/2026,Salário Freelance,2800.00
-04/09/2026,Amazon Compras,-450.00
-05/09/2026,iFood,-89.90
-07/09/2026,Uber,-56.70
-09/09/2026,Mercado Livre,-320.00
-11/09/2026,Pagamento de Fatura Cartão,-1200.00
-14/09/2026,99App,-42.00
-16/09/2026,Netflix,-39.90
-17/09/2026,Supermercado Pão de Açúcar,-410.00
-19/09/2026,Pix Enviado Aluguel,-1500.00
-21/09/2026,Posto Shell,-210.00
-23/09/2026,iFood,-95.30
+Data,Valor,Identificador,Descrição
+03/09/2026,2800.00,0165bbd1-5c35-4de5-9c4d-bee528838cfb,Salário Freelance
+04/09/2026,-450.00,6d3f18da-b594-4e8b-b186-3423831698eb,Amazon Compras
+05/09/2026,-89.90,09fdc565-64cc-4285-9de0-35dbd2116809,iFood
+07/09/2026,-56.70,7ecbd090-372b-4a88-ad74-93fce2a6f8fc,Uber
+09/09/2026,-320.00,d93b8cff-be33-4bed-aa4a-17a675782a42,Mercado Livre
+11/09/2026,-1200.00,df08f533-c232-4684-8893-ebed72c040ae,Pagamento de Fatura Cartão
+14/09/2026,-42.00,c43c1aa8-d6af-4084-a629-1c793bdd08c0,99App
+16/09/2026,-39.90,23a0b899-0a7f-447a-a196-07584a6a7394,Netflix
+17/09/2026,-410.00,31d55a38-ddbe-429f-9811-7daaa0ec982b,Supermercado Pão de Açúcar
+19/09/2026,-1500.00,4a3e216a-63b4-48c6-8d7a-23c5f9459364,Pix Enviado Aluguel
+21/09/2026,-210.00,3c539d65-43dd-4aef-96d1-34f547128f39,Posto Shell
+23/09/2026,-95.30,70d8ed3d-d474-45bc-b346-1cc2f5303e32,iFood
